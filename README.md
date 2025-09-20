@@ -1,8 +1,6 @@
 ## Network Intrusion Detection System - VIT Hackathon Codebase Explanation
 
-Based on my analysis of your codebase, here's a comprehensive explanation of what you've built:
-
-## 🔍 **What is this Codebase?**
+## 🔍 **What is this All About?**
 
 This is a sophisticated **Network Intrusion Detection System (NIDS)** that uses machine learning to detect cyber attacks in real-time. It's built around the CICIoT2023 feature extraction methodology and uses XGBoost for classification.
 
